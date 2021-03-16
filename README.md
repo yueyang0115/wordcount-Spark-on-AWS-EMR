@@ -15,5 +15,5 @@ Click on the uploaded file and click the Make public button just to make sure.
 
 ### Create a cluster on EMR
 Open Amazon EMR console, create a cluster with configurations as below. **You must set up an EC2 key pair otherwise you can't ssh into the master node.**  
-![ScreenShot](/image.png)
+![ScreenShot](/spark on EMR setting.JPG.png)  
 The cluster remains in the 'Starting' state for about 10 - 15 minutes. Once the cluster is ready for use, the status will change to 'Waiting'. You can now go ahead and use it.  
